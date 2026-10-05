@@ -10,7 +10,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Mottville?",
         "ps": [
-          "The town identifies Mottville as one of the two communities in its Northern Hamlets Master Plan, adopted August 18, 2025. Describe the actual fixtures and drainage connection instead of inferring a pipe problem from the hamlet setting. See <a href=\"https://www.townofskaneateles.gov/hamlet-plan/\">Town of Skaneateles hamlet plan</a>.",
+          "The town identifies Mottville as one of the two communities in its <a href=\"https://www.townofskaneateles.gov/hamlet-plan/\" target=\"_blank\" rel=\"noopener noreferrer\">Northern Hamlets Master Plan</a>, adopted August 18, 2025. Describe the actual fixtures and drainage connection instead of inferring a pipe problem from the hamlet setting.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
@@ -56,7 +56,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Skaneateles Falls?",
         "ps": [
-          "The town identifies Skaneateles Falls alongside Mottville in its Northern Hamlets Master Plan. Planning for growth is not evidence that a private sewer is damaged, original or connected to a particular public system. See <a href=\"https://www.townofskaneateles.gov/hamlet-plan/\">Town of Skaneateles hamlet plan</a>.",
+          "The town identifies Skaneateles Falls alongside Mottville in its <a href=\"https://www.townofskaneateles.gov/hamlet-plan/\" target=\"_blank\" rel=\"noopener noreferrer\">Northern Hamlets Master Plan</a>. Planning for growth is not evidence that a private sewer is damaged, original or connected to a particular public system.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
